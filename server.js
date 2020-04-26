@@ -36,6 +36,21 @@ var coursesData = [
         Description: 'Node.js',
         topic: 'Node.js',
         url: 'https://codingthesmartway.com/courses/nodejs/'
+    },
+    {
+
+        id : 2,
+
+        title: ' Node.js, Express & MongoDB Dev to Deployment',
+
+        author: 'Brad Traversy',
+
+        Description: 'Node.js',
+
+        topic: 'Node.js',
+
+        url: 'https://codingthesmartway.com/courses/nodejs/'
+
     }
 ]
 
